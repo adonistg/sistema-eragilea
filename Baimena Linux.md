@@ -14,7 +14,7 @@ Fitxategi eta direktorioen baimenak hurrengo aginduekin ikusi ditzakegu.
 ls -al
 ```
 
-![Resultado del agindu ls -a](image.png)
+![Resultado del agindu ls -a ](image.png)
 
 ### Baimen taldeak
 
